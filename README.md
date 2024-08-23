@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hello, I'm Mo.Helmy 👋
+
+## About Me
+
+I'm a **Talented Software Engineer/Web Developer** with a self-motivated attitude and a passion for building robust, scalable applications. With a strong foundation in software engineering and web development, I have a proven track record of successfully managing all facets of the development process. From initial design and architecture to site deployment and client management, I am dedicated to delivering high-quality solutions that meet and exceed client expectations.
+
+- 💼 **Expertise**: Software Engineering, Web Development, Client Management
+- 🌱 **Learning**: Continuously exploring new technologies and frameworks
+- 🌍 **Location**: Alexandria
+- 📫 **Contact**: mhelmy@dengine.eu or LinkedIn: https://www.linkedin.com/in/mohelmym/
+
+## Technologies & Tools
+
+![Technologies](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![Technologies](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![Technologies](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Technologies](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![Technologies](https://img.shields.io/badge/Code-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=2bbc8a)
+
+
+
+---
+
+Thank you for visiting my profile! I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <!--
 **MoHelmys/MoHelmys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
