@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Talented Software Engineer/Web Developer** with a self-motivated attitude and a passion for building robust, scalable applications. With a strong foundation in software engineering and web development, I have a proven track record of successfully managing all facets of the development process. From initial design and architecture to site deployment and client management, I am dedicated to delivering high-quality solutions that meet and exceed client expectations.
+**Talented Software Engineer/Web Developer** with a self-motivated attitude and a passion for building robust, scalable applications. With a strong foundation in software engineering and web development, I have a proven track record of successfully managing all facets of the development process. From initial design and architecture to site deployment and client management, I am dedicated to delivering high-quality solutions that meet and exceed client expectations.
 
 - 💼 **Expertise**: Software Engineering, Web Development, Client Management
 - 🌱 **Learning**: Continuously exploring new technologies and frameworks
